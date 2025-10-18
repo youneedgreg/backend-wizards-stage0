@@ -4,8 +4,9 @@
   "description": "HNG back end internship stage 0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node src/index.js",
+  "dev": "node src/index.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/youneedgreg/backend-wizards-stage0.git"
